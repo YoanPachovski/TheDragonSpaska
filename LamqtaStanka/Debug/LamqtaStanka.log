@@ -1,0 +1,7 @@
+﻿  LamqtaStanka.cpp
+c:\users\yokot\source\repos\lamqtastanka\lamqtastanka\lamqtastanka.cpp(254): warning C4018: '>': signed/unsigned mismatch
+c:\users\yokot\source\repos\lamqtastanka\lamqtastanka\lamqtastanka.cpp(297): warning C4018: '>': signed/unsigned mismatch
+c:\users\yokot\source\repos\lamqtastanka\lamqtastanka\lamqtastanka.cpp(388): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\yokot\source\repos\lamqtastanka\lamqtastanka\lamqtastanka.cpp(452): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\yokot\source\repos\lamqtastanka\lamqtastanka\lamqtastanka.cpp(494): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LamqtaStanka.vcxproj -> C:\Users\yokot\source\repos\LamqtaStanka\Debug\LamqtaStanka.exe
